@@ -1,4 +1,4 @@
-[![MasterHead]([https://cdn.dribbble.com/userupload/7369511/file/original-89aae88dfae30d36fe3cd4ac80c5e738.jpg?compress=1&resize=1600x408])(https://farvezhossen.netlify.app/)
+[![MasterHead](https://cdn.dribbble.com/userupload/7369511/file/original-89aae88dfae30d36fe3cd4ac80c5e738.jpg?compress=1&resize=1600x408)](https://farvezhossen.netlify.app/)
 <h1 align="center">Hi 👋, I'm Farvez Hossen</h1>
 <h3 align="center">A passionate Web & App developer from Bangladesh</h3>
 
