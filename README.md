@@ -36,7 +36,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=farvez999&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?username=farvez999&theme=default&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=farvez999&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=farvez999&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
