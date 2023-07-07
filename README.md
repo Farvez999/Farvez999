@@ -41,8 +41,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farvez999&show_icons=true&locale=en&layout=compact" alt="farvez999" /></p>
 
-<br/>
+---
 
 ## 🏆 GitHub Trophies
-
-<p align="left"> ![](https://github-profile-trophy.vercel.app/?username=farvez999&theme=radical&no-frame=false&no-bg=true&margin-w=4) </p>
+![](https://github-profile-trophy.vercel.app/?username=farvez999&theme=radical&no-frame=false&no-bg=true&margin-w=4)
